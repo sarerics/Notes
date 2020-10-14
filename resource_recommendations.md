@@ -35,6 +35,7 @@
 * [Four Stages of Learning](https://www.kdplatform.com/four-stages-learning/) (Article)
 * [Guide to Allyship](https://guidetoallyship.com/)
 * [Radical Candor](https://www.amazon.com/Radical-Candor-Kim-Scott/dp/B01KTIEFEE) (Book)
+* [Engineering Managers: What can you do for your URG reports?](https://tech.affirm.com/engineering-managers-what-you-can-do-for-your-urg-direct-reports-535f84ef60c4) (Blog post)
 
 ## Engineering
 * [Effective Engineer](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107) (Book)
